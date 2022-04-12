@@ -1,0 +1,16 @@
+C:\Users\31624\Desktop\csharp\classess\classess\bin\Debug\net5.0\classess.exe
+C:\Users\31624\Desktop\csharp\classess\classess\bin\Debug\net5.0\classess.deps.json
+C:\Users\31624\Desktop\csharp\classess\classess\bin\Debug\net5.0\classess.runtimeconfig.json
+C:\Users\31624\Desktop\csharp\classess\classess\bin\Debug\net5.0\classess.runtimeconfig.dev.json
+C:\Users\31624\Desktop\csharp\classess\classess\bin\Debug\net5.0\classess.dll
+C:\Users\31624\Desktop\csharp\classess\classess\bin\Debug\net5.0\ref\classess.dll
+C:\Users\31624\Desktop\csharp\classess\classess\bin\Debug\net5.0\classess.pdb
+C:\Users\31624\Desktop\csharp\classess\classess\obj\Debug\net5.0\classess.csproj.AssemblyReference.cache
+C:\Users\31624\Desktop\csharp\classess\classess\obj\Debug\net5.0\classess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\31624\Desktop\csharp\classess\classess\obj\Debug\net5.0\classess.AssemblyInfoInputs.cache
+C:\Users\31624\Desktop\csharp\classess\classess\obj\Debug\net5.0\classess.AssemblyInfo.cs
+C:\Users\31624\Desktop\csharp\classess\classess\obj\Debug\net5.0\classess.csproj.CoreCompileInputs.cache
+C:\Users\31624\Desktop\csharp\classess\classess\obj\Debug\net5.0\classess.dll
+C:\Users\31624\Desktop\csharp\classess\classess\obj\Debug\net5.0\ref\classess.dll
+C:\Users\31624\Desktop\csharp\classess\classess\obj\Debug\net5.0\classess.pdb
+C:\Users\31624\Desktop\csharp\classess\classess\obj\Debug\net5.0\classess.genruntimeconfig.cache

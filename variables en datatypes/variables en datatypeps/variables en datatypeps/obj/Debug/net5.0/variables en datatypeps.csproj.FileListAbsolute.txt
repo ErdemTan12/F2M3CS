@@ -1,0 +1,15 @@
+C:\Users\31624\Desktop\csharp\variables en datatypes\variables en datatypeps\variables en datatypeps\bin\Debug\net5.0\variables en datatypeps.exe
+C:\Users\31624\Desktop\csharp\variables en datatypes\variables en datatypeps\variables en datatypeps\bin\Debug\net5.0\variables en datatypeps.deps.json
+C:\Users\31624\Desktop\csharp\variables en datatypes\variables en datatypeps\variables en datatypeps\bin\Debug\net5.0\variables en datatypeps.runtimeconfig.json
+C:\Users\31624\Desktop\csharp\variables en datatypes\variables en datatypeps\variables en datatypeps\bin\Debug\net5.0\variables en datatypeps.runtimeconfig.dev.json
+C:\Users\31624\Desktop\csharp\variables en datatypes\variables en datatypeps\variables en datatypeps\bin\Debug\net5.0\variables en datatypeps.dll
+C:\Users\31624\Desktop\csharp\variables en datatypes\variables en datatypeps\variables en datatypeps\bin\Debug\net5.0\ref\variables en datatypeps.dll
+C:\Users\31624\Desktop\csharp\variables en datatypes\variables en datatypeps\variables en datatypeps\bin\Debug\net5.0\variables en datatypeps.pdb
+C:\Users\31624\Desktop\csharp\variables en datatypes\variables en datatypeps\variables en datatypeps\obj\Debug\net5.0\variables en datatypeps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\31624\Desktop\csharp\variables en datatypes\variables en datatypeps\variables en datatypeps\obj\Debug\net5.0\variables en datatypeps.AssemblyInfoInputs.cache
+C:\Users\31624\Desktop\csharp\variables en datatypes\variables en datatypeps\variables en datatypeps\obj\Debug\net5.0\variables en datatypeps.AssemblyInfo.cs
+C:\Users\31624\Desktop\csharp\variables en datatypes\variables en datatypeps\variables en datatypeps\obj\Debug\net5.0\variables en datatypeps.csproj.CoreCompileInputs.cache
+C:\Users\31624\Desktop\csharp\variables en datatypes\variables en datatypeps\variables en datatypeps\obj\Debug\net5.0\variables en datatypeps.dll
+C:\Users\31624\Desktop\csharp\variables en datatypes\variables en datatypeps\variables en datatypeps\obj\Debug\net5.0\ref\variables en datatypeps.dll
+C:\Users\31624\Desktop\csharp\variables en datatypes\variables en datatypeps\variables en datatypeps\obj\Debug\net5.0\variables en datatypeps.pdb
+C:\Users\31624\Desktop\csharp\variables en datatypes\variables en datatypeps\variables en datatypeps\obj\Debug\net5.0\variables en datatypeps.genruntimeconfig.cache

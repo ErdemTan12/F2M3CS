@@ -1,0 +1,15 @@
+C:\Users\31624\Desktop\csharp\getters en setters\getters en setters\bin\Debug\net5.0\getters en setters.exe
+C:\Users\31624\Desktop\csharp\getters en setters\getters en setters\bin\Debug\net5.0\getters en setters.deps.json
+C:\Users\31624\Desktop\csharp\getters en setters\getters en setters\bin\Debug\net5.0\getters en setters.runtimeconfig.json
+C:\Users\31624\Desktop\csharp\getters en setters\getters en setters\bin\Debug\net5.0\getters en setters.runtimeconfig.dev.json
+C:\Users\31624\Desktop\csharp\getters en setters\getters en setters\bin\Debug\net5.0\getters en setters.dll
+C:\Users\31624\Desktop\csharp\getters en setters\getters en setters\bin\Debug\net5.0\ref\getters en setters.dll
+C:\Users\31624\Desktop\csharp\getters en setters\getters en setters\bin\Debug\net5.0\getters en setters.pdb
+C:\Users\31624\Desktop\csharp\getters en setters\getters en setters\obj\Debug\net5.0\getters en setters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\31624\Desktop\csharp\getters en setters\getters en setters\obj\Debug\net5.0\getters en setters.AssemblyInfoInputs.cache
+C:\Users\31624\Desktop\csharp\getters en setters\getters en setters\obj\Debug\net5.0\getters en setters.AssemblyInfo.cs
+C:\Users\31624\Desktop\csharp\getters en setters\getters en setters\obj\Debug\net5.0\getters en setters.csproj.CoreCompileInputs.cache
+C:\Users\31624\Desktop\csharp\getters en setters\getters en setters\obj\Debug\net5.0\getters en setters.dll
+C:\Users\31624\Desktop\csharp\getters en setters\getters en setters\obj\Debug\net5.0\ref\getters en setters.dll
+C:\Users\31624\Desktop\csharp\getters en setters\getters en setters\obj\Debug\net5.0\getters en setters.pdb
+C:\Users\31624\Desktop\csharp\getters en setters\getters en setters\obj\Debug\net5.0\getters en setters.genruntimeconfig.cache

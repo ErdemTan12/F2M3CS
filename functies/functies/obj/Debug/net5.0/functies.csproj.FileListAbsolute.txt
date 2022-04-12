@@ -1,0 +1,16 @@
+C:\Users\31624\Desktop\csharp\functies\functies\obj\Debug\net5.0\functies.csproj.AssemblyReference.cache
+C:\Users\31624\Desktop\csharp\functies\functies\obj\Debug\net5.0\functies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\31624\Desktop\csharp\functies\functies\obj\Debug\net5.0\functies.AssemblyInfoInputs.cache
+C:\Users\31624\Desktop\csharp\functies\functies\obj\Debug\net5.0\functies.AssemblyInfo.cs
+C:\Users\31624\Desktop\csharp\functies\functies\obj\Debug\net5.0\functies.csproj.CoreCompileInputs.cache
+C:\Users\31624\Desktop\csharp\functies\functies\bin\Debug\net5.0\functies.exe
+C:\Users\31624\Desktop\csharp\functies\functies\bin\Debug\net5.0\functies.deps.json
+C:\Users\31624\Desktop\csharp\functies\functies\bin\Debug\net5.0\functies.runtimeconfig.json
+C:\Users\31624\Desktop\csharp\functies\functies\bin\Debug\net5.0\functies.runtimeconfig.dev.json
+C:\Users\31624\Desktop\csharp\functies\functies\bin\Debug\net5.0\functies.dll
+C:\Users\31624\Desktop\csharp\functies\functies\bin\Debug\net5.0\ref\functies.dll
+C:\Users\31624\Desktop\csharp\functies\functies\bin\Debug\net5.0\functies.pdb
+C:\Users\31624\Desktop\csharp\functies\functies\obj\Debug\net5.0\functies.dll
+C:\Users\31624\Desktop\csharp\functies\functies\obj\Debug\net5.0\ref\functies.dll
+C:\Users\31624\Desktop\csharp\functies\functies\obj\Debug\net5.0\functies.pdb
+C:\Users\31624\Desktop\csharp\functies\functies\obj\Debug\net5.0\functies.genruntimeconfig.cache

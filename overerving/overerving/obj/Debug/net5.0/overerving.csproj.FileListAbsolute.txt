@@ -1,0 +1,15 @@
+C:\Users\31624\Desktop\csharp\overerving\overerving\bin\Debug\net5.0\overerving.exe
+C:\Users\31624\Desktop\csharp\overerving\overerving\bin\Debug\net5.0\overerving.deps.json
+C:\Users\31624\Desktop\csharp\overerving\overerving\bin\Debug\net5.0\overerving.runtimeconfig.json
+C:\Users\31624\Desktop\csharp\overerving\overerving\bin\Debug\net5.0\overerving.runtimeconfig.dev.json
+C:\Users\31624\Desktop\csharp\overerving\overerving\bin\Debug\net5.0\overerving.dll
+C:\Users\31624\Desktop\csharp\overerving\overerving\bin\Debug\net5.0\ref\overerving.dll
+C:\Users\31624\Desktop\csharp\overerving\overerving\bin\Debug\net5.0\overerving.pdb
+C:\Users\31624\Desktop\csharp\overerving\overerving\obj\Debug\net5.0\overerving.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\31624\Desktop\csharp\overerving\overerving\obj\Debug\net5.0\overerving.AssemblyInfoInputs.cache
+C:\Users\31624\Desktop\csharp\overerving\overerving\obj\Debug\net5.0\overerving.AssemblyInfo.cs
+C:\Users\31624\Desktop\csharp\overerving\overerving\obj\Debug\net5.0\overerving.csproj.CoreCompileInputs.cache
+C:\Users\31624\Desktop\csharp\overerving\overerving\obj\Debug\net5.0\overerving.dll
+C:\Users\31624\Desktop\csharp\overerving\overerving\obj\Debug\net5.0\ref\overerving.dll
+C:\Users\31624\Desktop\csharp\overerving\overerving\obj\Debug\net5.0\overerving.pdb
+C:\Users\31624\Desktop\csharp\overerving\overerving\obj\Debug\net5.0\overerving.genruntimeconfig.cache

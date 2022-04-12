@@ -1,0 +1,15 @@
+C:\Users\31624\Desktop\csharp\scopes\scopes\bin\Debug\net5.0\scopes.exe
+C:\Users\31624\Desktop\csharp\scopes\scopes\bin\Debug\net5.0\scopes.deps.json
+C:\Users\31624\Desktop\csharp\scopes\scopes\bin\Debug\net5.0\scopes.runtimeconfig.json
+C:\Users\31624\Desktop\csharp\scopes\scopes\bin\Debug\net5.0\scopes.runtimeconfig.dev.json
+C:\Users\31624\Desktop\csharp\scopes\scopes\bin\Debug\net5.0\scopes.dll
+C:\Users\31624\Desktop\csharp\scopes\scopes\bin\Debug\net5.0\ref\scopes.dll
+C:\Users\31624\Desktop\csharp\scopes\scopes\bin\Debug\net5.0\scopes.pdb
+C:\Users\31624\Desktop\csharp\scopes\scopes\obj\Debug\net5.0\scopes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\31624\Desktop\csharp\scopes\scopes\obj\Debug\net5.0\scopes.AssemblyInfoInputs.cache
+C:\Users\31624\Desktop\csharp\scopes\scopes\obj\Debug\net5.0\scopes.AssemblyInfo.cs
+C:\Users\31624\Desktop\csharp\scopes\scopes\obj\Debug\net5.0\scopes.csproj.CoreCompileInputs.cache
+C:\Users\31624\Desktop\csharp\scopes\scopes\obj\Debug\net5.0\scopes.dll
+C:\Users\31624\Desktop\csharp\scopes\scopes\obj\Debug\net5.0\ref\scopes.dll
+C:\Users\31624\Desktop\csharp\scopes\scopes\obj\Debug\net5.0\scopes.pdb
+C:\Users\31624\Desktop\csharp\scopes\scopes\obj\Debug\net5.0\scopes.genruntimeconfig.cache
